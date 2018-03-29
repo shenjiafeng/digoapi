@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "digo openapi",
+    "server": "digo server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "digo": "latest",
+    "digo-api": "latest",
+    "digo-clean-css": "latest",
+    "digo-html-minifier": "latest",
+    "digo-less": "latest",
+    "digo-node-sass": "latest",
+    "digo-typescript": "latest",
+    "digo-uglify-js": "latest",
+    "digo-web-pack": "latest",
+    "open": "^0.0.5"
+  }
+}
